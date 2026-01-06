@@ -1,0 +1,12 @@
+Date,Time,Event,Data/Comment,Duration
+2026/01/06,10:19:11,Patient Name,sanjeev,--
+--,--,Mode,PCC,--
+06/01/2026,10:18:11,Time of Birth,--,
+06/01/2026,10:18:59,Beginning of Resuscitation,--,0 m 45 s
+06/01/2026,10:19:00,Placental Delivery by Cord Clamping,--,0 m 0 s
+06/01/2026,10:19:00,Cord Clamping,--,0 m 0 s
+06/01/2026,10:19:01,Oxytocin Prophylaxis,--,0 m 0 s
+06/01/2026,10:19:03,End of Resuscitation,--,0 m 2 s
+06/01/2026,10:19:05,Establish Normal Respiration,--,0 m 1 s
+Duration of Resuscitation,,,4s
+Total Duration,,,54s
