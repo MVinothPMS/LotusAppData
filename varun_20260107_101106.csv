@@ -1,0 +1,14 @@
+Date(dd/MM/yyyy),Time(HH:mm:ss),Event(Text),Data/Comment(Text),Duration
+07/01/2026,10:11:06,Patient Name,varun,--
+07/01/2026,10:11:06,Mode,PCC,--
+--,--,Baby Require Resuscitation:,No,--
+07/01/2026,10:09:16,Time of Birth,--,
+07/01/2026,10:09:20,Establish Normal Breathing,--,0 m 1 s
+07/01/2026,10:09:21,Establish Skin to Skin Contact,--,0 m 0 s
+07/01/2026,10:09:22,Placental Delivery by Cord Clamping,--,0 m 1 s
+07/01/2026,10:09:38,Cord Clamping,--,0 m 15 s
+07/01/2026,10:09:39,Oxytocin Prophylaxis,--,0 m 1 s
+07/01/2026,10:09:41,End of Skin to Skin Contact,--,0 m 1 s
+07/01/2026,10:09:52,okr ,--,0 m 0 s
+--,--,Duration of Skin to Skin Contact,--,20s
+--,--,Total Duration,--,25s
