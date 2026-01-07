@@ -1,3 +1,4 @@
 Date(dd/MM/yyyy),Time(HH:mm:ss),Temperature(°C),Respiratory Rate(brpm),HeartRate(bpm),SpO2(%)
 07/01/2026,09:56:14,35,95,95,95
 07/01/2026,10:11:30,32,95,95,95
+07/01/2026,10:14:30,35,65,56,95
