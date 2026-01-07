@@ -1,0 +1,9 @@
+Date(dd/MM/yyyy),Time(HH:mm:ss),Event(Text),Data/Comment(Text),Duration
+07/01/2026,11:50:07,Patient Name,one,--
+07/01/2026,11:50:07,Mode,None,--
+07/01/2026,11:49:46,Time of Birth,--,
+07/01/2026,11:49:50,Baby wrapped and Waves seen,--,0 m 3 s
+07/01/2026,11:49:51,Placenta Out,--,0 m 1 s
+07/01/2026,11:49:53,Cord Cut,--,0 m 1 s
+07/01/2026,11:49:54,Pitocin given,--,0 m 1 s
+07/01/2026,11:49:56,APGAR,--,0 m 1 s
