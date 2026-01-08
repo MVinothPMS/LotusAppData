@@ -1,0 +1,13 @@
+Date(dd/MM/yyyy),Time(HH:mm:ss),Event(Text),Data/Comment(Text),Duration
+08/01/2026,14:49:33,Patient Name,svshhs,--
+08/01/2026,14:49:33,Mode,PCC,--
+--,--,Baby Require Resuscitation:,Yes,--
+08/01/2026,14:49:23,Time of Birth,--,
+08/01/2026,14:49:28,Beginning of Resuscitation,--,0 m 0 s
+08/01/2026,14:49:28,Placental Delivery by Cord Clamping,--,0 m 0 s
+08/01/2026,14:49:29,Cord Clamping,--,0 m 0 s
+08/01/2026,14:49:30,Oxytocin Prophylaxis,--,0 m 0 s
+08/01/2026,14:49:30,End of Resuscitation,--,0 m 0 s
+08/01/2026,14:49:31,Establish Normal Respiration,--,0 m 0 s
+--,--,Duration of Resuscitation,--,2s
+--,--,Total Duration,--,8s
