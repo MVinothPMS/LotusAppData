@@ -1,0 +1,12 @@
+Date(dd/MM/yyyy),Time(HH:mm:ss),Event(Text),Data/Comment(Text),Duration
+10/01/2026,11:06:24,Patient Name,varun ,--
+10/01/2026,11:06:24,Mode,None,--
+10/01/2026,11:03:11,Time of Birth,--,
+10/01/2026,11:02:04,Establish Normal Breathing,--,0 m 0 s
+10/01/2026,11:02:54,Establish Skin to Skin Contact,--,0 m 22 s
+10/01/2026,11:02:55,Placental Delivery by Cord Clamping,--,0 m 0 s
+10/01/2026,11:02:56,Cord Clamping,--,0 m 0 s
+10/01/2026,11:02:56,Oxytocin Prophylaxis,--,0 m 0 s
+10/01/2026,11:02:56,End of Skin to Skin Contact,--,0 m 0 s
+--,--,Duration of Skin to Skin Contact,--,2s
+--,--,Total Duration,--,53s
