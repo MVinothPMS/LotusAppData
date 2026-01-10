@@ -1,0 +1,20 @@
+Date(dd/MM/yyyy),Time(HH:mm:ss),Event(Text),Data/Comment(Text),Duration
+10/01/2026,12:27:13,Patient Name,esghkuu,--
+10/01/2026,12:27:13,Mode,PCC,--
+--,--,Baby Require Resuscitation:,No,--
+10/01/2026,12:27:07,Time of Birth,--,
+10/01/2026,12:22:38,qwert,--,0 m 3 s
+10/01/2026,12:24:31,Baby wrapped and Waves seen,--,0 m 4 s
+10/01/2026,12:24:31,Placenta Out,--,0 m 0 s
+10/01/2026,12:24:31,Cord Cut,--,0 m 0 s
+10/01/2026,12:24:31,Pitocin given,--,0 m 0 s
+10/01/2026,12:24:31,APGAR,--,0 m 0 s
+10/01/2026,12:27:09,Oxytocin Prophylaxis,--,0 m 0 s
+10/01/2026,12:26:47,Time of Cord Clamping,--,0 m 0 s
+10/01/2026,12:27:08,Establish Normal Breathing,--,0 m 0 s
+10/01/2026,12:27:08,Establish Skin to Skin Contact,--,0 m 0 s
+10/01/2026,12:27:09,Placental Delivery by Cord Clamping,--,0 m 0 s
+10/01/2026,12:27:09,Cord Clamping,--,0 m 0 s
+10/01/2026,12:27:10,End of Skin to Skin Contact,--,0 m 0 s
+--,--,Duration of Skin to Skin Contact,--,2s
+--,--,Total Duration,--,3s
